@@ -1,0 +1,13 @@
+---
+BasedOnStyle: LLVM
+IndentWidth: 4
+ColumnLimit: 0
+BreakBeforeBraces: Allman
+SeparateDefinitionBlocks: Always
+EmptyLineBeforeAccessModifier: LogicalBlock
+IndentCaseLabels: true
+InsertBraces: true
+AlignTrailingComments:
+  Kind: Always
+  OverEmptyLines: 2
+---
